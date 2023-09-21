@@ -91,7 +91,17 @@ This will return the classification accuracy without and with pretraining + fine
 
 ## How to cite
 
-If you utilize our benchmark for your own research, please make sure to cite ... TODO
+If you utilize our benchmark for your own research, please make sure to cite (currently only the preprint can be cited):
+```    
+@article{frank2023hyperspectral,
+      title={Hyperspectral Benchmark: Bridging the Gap between HSI Applications through Comprehensive Dataset and Pretraining}, 
+      author={Hannah Frank and Leon Amadeus Varga and Andreas Zell},
+      year={2023},
+      eprint={2309.11122},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 ## References
 [0]: Cristianini N, Shawe-Taylor J (2010) An Introduction to Support Vector Machines and Other
